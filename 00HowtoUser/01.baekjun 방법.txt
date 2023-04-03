@@ -1,0 +1,17 @@
+01. vscode
+	code실행\
+	: vscode Code Runner plugin 설치
+	ctrl + alt + n
+
+02. 온라인 https://www.youtube.com/watch?v=myDEDaaOd30&t=315s
+
+03. 입력받기
+	const fs = require("fs");
+	const filePath = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
+	let input = fs.readFileSync(filePath).toString().split("\n");
+	https://wonyoung2257.tistory.com/36
+	
+04. online 컴파일러
+	https://www.jdoodle.com/execute-nodejs-online/
+	
+	https://wonyoung2257.tistory.com/36
